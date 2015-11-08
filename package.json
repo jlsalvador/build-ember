@@ -3,9 +3,6 @@
   "version": "0.0.1-0",
   "description": "A Ember builder for Atom.",
   "repository": "https://github.com/jlsalvador/build-ember",
-  "dependencies": {
-    "atom-build": "^0.48.0"
-  },
   "license": "MIT",
   "providedServices": {
     "builder": {
